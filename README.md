@@ -1,24 +1,27 @@
 <h2 align="center"><i><small>Hello Friends👋</h2>
 <h3 align="center">Informasi</h3>
 
-```rb
-// Tolong jangan dibully bang:v
+```js
+import Me from "about-me"
 
-const Me = require("arsky-client")
-const Arsky = new Me()
-const { 
-     from,
-     message
-} = Arsky
-const Profile = {
-    name: "Arsky",
-    status: "People",
-    hobby: "Playing Music",
-    skill: "Copas ( Pro )"
+const amar = new Me()
+
+const introduce = async () => {
+    const profile = {
+        name: "Amar",
+        role: "Student",
+        hobby: "Playing Music"
+    }
+
+    return amar.sendMessage(
+        profile,
+        amar.message
+    )
 }
-return Arsky.sendMessage(from, Profile, message)
+
+await introduce()
 ```
-  
+
 <p align="center">
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
     <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
