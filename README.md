@@ -8,7 +8,7 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=arskyy&label=Profile%20Views&color=0D47A1&style=flat-square" alt="Views" />
-<img src="https://img.shields.io/github/followers/amrrtz?label=Followers&style=flat-square&color=0D47A1" alt="Followers" />
+<img src="https://img.shields.io/github/followers/arskyy?label=Followers&style=flat-square&color=0D47A1" alt="Followers" />
 
 </div>
 
