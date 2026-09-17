@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Just+a+beginner,+always+willing+to+learn." alt="Typing SVG" />
-
+</a>
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=arskyy&label=Profile%20Views&color=0D47A1&style=flat-square" alt="Views" />
